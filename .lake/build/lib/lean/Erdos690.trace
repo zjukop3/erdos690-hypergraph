@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["7ef318a821ba1dde.olean"],
+  "m": false,
+  "i": "41557e36e0b2bcf6.ilean",
+  "c": "1c8ba3dc0e23cb71.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/zjukop/codex/sunprize/erdos690-hypergraph/.lake/build/lib/lean /Users/zjukop/.elan/toolchains/leanprover--lean4---v4.33.1/bin/lean /Users/zjukop/codex/sunprize/erdos690-hypergraph/Erdos690.lean -o /Users/zjukop/codex/sunprize/erdos690-hypergraph/.lake/build/lib/lean/Erdos690.olean -i /Users/zjukop/codex/sunprize/erdos690-hypergraph/.lake/build/lib/lean/Erdos690.ilean -c /Users/zjukop/codex/sunprize/erdos690-hypergraph/.lake/build/ir/Erdos690.c --setup /Users/zjukop/codex/sunprize/erdos690-hypergraph/.lake/build/ir/Erdos690.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["erdos690_hypergraph/Erdos690:extraDep",
+     [["@erdos690_hypergraph:extraDep", "00000000000006bb"]]],
+    ["imports", "00000000000006bb"]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.33.1, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6",
+   "0051240b7c23c453"],
+  ["/Users/zjukop/codex/sunprize/erdos690-hypergraph/Erdos690.lean",
+   "e07d24cc1666e842"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: Erdos690", "f0b23b5293a71a33"],
+  ["Package.id?: (some erdos690_hypergraph)", "68ca20da752246b6"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "f0c205906bccc373"}

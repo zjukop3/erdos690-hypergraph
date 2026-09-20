@@ -1,0 +1,6 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "erdos690_hypergraph",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
